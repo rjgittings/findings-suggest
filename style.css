@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(https://magazine.artland.com/wp-content/uploads/2021/09/%E2%80%98Peonies-Bassano-in-Teverina-1980-%C2%A9-Cy-TwomblyFondazione-Nicola-Del-Roscio-.jpeg) no-repeat;
+    background-size: cover;
+}
+.box{
+    width 450px;
+    background: rgba(153, 155, 136, 0.479);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 2%;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.box-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.box h1{
+    font-size: 30px;
+    letter-spacing: 3px;
+    font weight: 100;   
+}
+
+.box h5{ 
+    font-size: 17px;
+    letter-spacing: 2px;
+}
