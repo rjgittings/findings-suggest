@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(https://magazine.artland.com/wp-content/uploads/2021/09/%E2%80%98Peonies-Bassano-in-Teverina-1980-%C2%A9-Cy-TwomblyFondazione-Nicola-Del-Roscio-.jpeg) no-repeat;
+    background: url("https://magazine.artland.com/wp-content/uploads/2021/09/%E2%80%98Peonies-Bassano-in-Teverina-1980-%C2%A9-Cy-TwomblyFondazione-Nicola-Del-Roscio-.jpeg") no-repeat;
     background-size: cover;
 }
 .box{
